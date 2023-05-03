@@ -3,7 +3,7 @@ import ReactTypingEffect from "react-typing-effect";
 
 const Header = () => {
   return (
-    <div className="header__wraper">
+    <div className="header__wraper" id="home">
       <div className="main__info">
         <h1>
           The world of programming is <br /> one of the most beautiful worlds.
